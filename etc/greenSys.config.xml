@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<database>
+		<dbhost>MYCOMPUTER-PC\SQLEXPRESS</dbhost>
+		<dbuser>sa</dbuser>
+		<dbpass>masterkey</dbpass>
+		<dbname>EP122015</dbname>
+	</database>
+</config>
